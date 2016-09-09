@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MetricConversion</string>
+    <string name="txtTitle">Conversion</string>
+    <string name="prompt">Select Group</string>
+    <string name="description">Concert Image</string>
+    <string name="btn">FIND THE CONVERSION</string>
+    <string-array name="txtGroup">
+        <item>in</item>
+        <item>ft</item>
+        <item>yd</item>
+    </string-array>
+</resources>
